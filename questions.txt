@@ -1,0 +1,2 @@
+What is the capital of india?|delhi|bangalore|chennai|TamilNadu|1
+what is JVM?|Java Volume Machine|Java visual Machine|Java voltage Machine|Java virtual Machine|4
