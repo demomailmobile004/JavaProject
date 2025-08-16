@@ -8,6 +8,9 @@ public class Library {
 	
 	private Map<String, Book> books = new HashMap<>();
 	
+	public void gitMethod(){
+
+}
 	
 	public void addBook(Book book) {
 				
